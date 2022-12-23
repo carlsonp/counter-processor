@@ -12,7 +12,7 @@ ipdb==0.13.9
 ipython==7.34.0
 ipython-genutils==0.2.0
 jedi==0.17.2
-maxminddb==2.0.3
+maxminddb==2.2.0
 multidict==6.0.2
 parso==0.8.3
 peewee==3.15.2
